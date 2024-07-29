@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sid541/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid541/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Sid541/DSA-Question/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Sid541/DSA-Question/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
