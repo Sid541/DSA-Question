@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sid541/DSA-Question/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Sid541/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sid541/DSA-Question/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
