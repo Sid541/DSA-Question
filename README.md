@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid541/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Sid541/DSA-Question/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sid541/DSA-Question/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Sid541/DSA-Question/tree/master/0338-counting-bits) |
 ## Recursion
