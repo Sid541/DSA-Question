@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sid541/DSA-Question/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sid541/DSA-Question/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Sid541/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid541/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sid541/DSA-Question/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sid541/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sid541/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sid541/DSA-Question/tree/master/0344-reverse-string) |
 ## String
 |  |
