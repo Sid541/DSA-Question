@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sid541/DSA-Question/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Sid541/DSA-Question/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -67,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sid541/DSA-Question/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
