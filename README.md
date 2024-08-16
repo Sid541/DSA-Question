@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sid541/DSA-Question/tree/master/0283-move-zeroes) |
+| [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sid541/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sid541/DSA-Question/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Sid541/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
+| [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
