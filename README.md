@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sid541/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Sid541/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sid541/DSA-Question/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sid541/DSA-Question/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sid541/DSA-Question/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sid541/DSA-Question/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -72,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
