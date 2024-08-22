@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sid541/DSA-Question/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sid541/DSA-Question/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Sid541/DSA-Question/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Sid541/DSA-Question/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Sid541/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 ## Greedy
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sid541/DSA-Question/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Sid541/DSA-Question/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
