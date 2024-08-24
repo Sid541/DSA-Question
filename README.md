@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sid541/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sid541/DSA-Question/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sid541/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sid541/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sid541/DSA-Question/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sid541/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sid541/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sid541/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Sid541/DSA-Question/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sid541/DSA-Question/tree/master/0242-valid-anagram) |
