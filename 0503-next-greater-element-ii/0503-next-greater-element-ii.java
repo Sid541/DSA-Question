@@ -4,7 +4,7 @@ class Solution {
         int[] ans = new int[n];
         Stack<Integer> s = new Stack<>();
 
-        for(int i = 2*n; i >= 0; i--) {
+        for(int i = 2*n-1; i >= 0; i--) {
             while(!s.isEmpty() && s.peek() <= nums[i % n]) {
                 s.pop();
             }
