@@ -7,7 +7,7 @@ class Solution {
             while (!st.isEmpty() && arr[st.peek()] >= arr[i]) {
                 st.pop();
             }
-            ans[i] = st.isEmpty() ? n : st.peek(); // Return index or n
+            ans[i] = st.isEmpty() ? n : st.peek(); 
             st.push(i);
         }
         return ans;
@@ -21,7 +21,7 @@ class Solution {
             while (!st.isEmpty() && arr[st.peek()] > arr[i]) {
                 st.pop();
             }
-            ans[i] = st.isEmpty() ? -1 : st.peek(); // Return index or -1
+            ans[i] = st.isEmpty() ? -1 : st.peek();
             st.push(i);
         }
         return ans;
