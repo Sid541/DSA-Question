@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sid541/DSA-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sid541/DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sid541/DSA-Question/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Sid541/DSA-Question/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sid541/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Sid541/DSA-Question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sid541/DSA-Question/tree/master/1078-remove-outermost-parentheses) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sid541/DSA-Question/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/Sid541/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sid541/DSA-Question/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sid541/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sid541/DSA-Question/tree/master/0943-sum-of-subarray-minimums) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sid541/DSA-Question/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sid541/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sid541/DSA-Question/tree/master/0943-sum-of-subarray-minimums) |
