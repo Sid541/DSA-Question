@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Sid541/DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sid541/DSA-Question/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Sid541/DSA-Question/tree/master/0496-next-greater-element-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sid541/DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sid541/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -149,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sid541/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sid541/DSA-Question/tree/master/0943-sum-of-subarray-minimums) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sid541/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sid541/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sid541/DSA-Question/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
