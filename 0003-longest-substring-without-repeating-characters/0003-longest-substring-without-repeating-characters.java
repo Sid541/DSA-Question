@@ -1,5 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+        //Using sliding window
         int start=0;
         int end=0;
         int max=0;
