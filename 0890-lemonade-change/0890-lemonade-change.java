@@ -1,5 +1,6 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
+        //Greedy Approach
         int five=0;
         int ten=0;
         int n=bills.length;
