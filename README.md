@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sid541/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid541/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sid541/DSA-Question/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/Sid541/DSA-Question/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sid541/DSA-Question/tree/master/0943-sum-of-subarray-minimums) |
 ## Memoization
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sid541/DSA-Question/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Sid541/DSA-Question/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sid541/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Sid541/DSA-Question/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Sid541/DSA-Question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sid541/DSA-Question/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sid541/DSA-Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Sid541/DSA-Question/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Sid541/DSA-Question/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Sid541/DSA-Question/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Sid541/DSA-Question/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Sid541/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sid541/DSA-Question/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sid541/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Sid541/DSA-Question/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sid541/DSA-Question/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Sid541/DSA-Question/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sid541/DSA-Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
