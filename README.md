@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sid541/DSA-Question/tree/master/0078-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
 ## String Matching
 |  |
 | ------- |
@@ -179,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sid541/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
