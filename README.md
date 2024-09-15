@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
