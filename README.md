@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sid541/DSA-Question/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sid541/DSA-Question/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Sid541/DSA-Question/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sid541/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/Sid541/DSA-Question/tree/master/0890-lemonade-change) |
