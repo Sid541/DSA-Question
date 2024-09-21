@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sid541/DSA-Question/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Sid541/DSA-Question/tree/master/0386-lexicographical-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Sid541/DSA-Question/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
