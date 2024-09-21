@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sid541/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Sid541/DSA-Question/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sid541/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid541/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sid541/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Sid541/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sid541/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sid541/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sid541/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sid541/DSA-Question/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sid541/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sid541/DSA-Question/tree/master/0014-longest-common-prefix) |
