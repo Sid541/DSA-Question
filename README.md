@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sid541/DSA-Question/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sid541/DSA-Question/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
