@@ -44,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/Sid541/DSA-Question/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sid541/DSA-Question/tree/master/0943-sum-of-subarray-minimums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 ## Backtracking
 |  |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Sid541/DSA-Question/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Sid541/DSA-Question/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sid541/DSA-Question/tree/master/1908-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
