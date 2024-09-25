@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sid541/DSA-Question/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sid541/DSA-Question/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sid541/DSA-Question/tree/master/0338-counting-bits) |
@@ -210,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sid541/DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sid541/DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
