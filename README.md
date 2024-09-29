@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sid541/DSA-Question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sid541/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Sid541/DSA-Question/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sid541/DSA-Question/tree/master/0078-subsets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sid541/DSA-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sid541/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sid541/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Sid541/DSA-Question/tree/master/0141-linked-list-cycle) |
