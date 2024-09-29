@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sid541/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/Sid541/DSA-Question/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sid541/DSA-Question/tree/master/0943-sum-of-subarray-minimums) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sid541/DSA-Question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 ## Binary Search
