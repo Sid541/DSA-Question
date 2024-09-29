@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sid541/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Sid541/DSA-Question/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sid541/DSA-Question/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sid541/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sid541/DSA-Question/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sid541/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sid541/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sid541/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sid541/DSA-Question/tree/master/0141-linked-list-cycle) |
