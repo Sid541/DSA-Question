@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sid541/DSA-Question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sid541/DSA-Question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sid541/DSA-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3533-snake-in-matrix](https://github.com/Sid541/DSA-Question/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sid541/DSA-Question/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sid541/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Sid541/DSA-Question/tree/master/0455-assign-cookies) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sid541/DSA-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sid541/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/Sid541/DSA-Question/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sid541/DSA-Question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sid541/DSA-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sid541/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sid541/DSA-Question/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/Sid541/DSA-Question/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sid541/DSA-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
