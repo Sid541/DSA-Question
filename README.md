@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sid541/DSA-Question/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Sid541/DSA-Question/tree/master/0386-lexicographical-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/Sid541/DSA-Question/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sid541/DSA-Question/tree/master/0572-subtree-of-another-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sid541/DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sid541/DSA-Question/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/Sid541/DSA-Question/tree/master/0404-sum-of-left-leaves) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sid541/DSA-Question/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sid541/DSA-Question/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sid541/DSA-Question/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sid541/DSA-Question/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sid541/DSA-Question/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sid541/DSA-Question/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sid541/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sid541/DSA-Question/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
