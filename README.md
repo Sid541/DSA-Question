@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sid541/DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sid541/DSA-Question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sid541/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sid541/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Sid541/DSA-Question/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sid541/DSA-Question/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sid541/DSA-Question/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sid541/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sid541/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sid541/DSA-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sid541/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sid541/DSA-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sid541/DSA-Question/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sid541/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sid541/DSA-Question/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sid541/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Sid541/DSA-Question/tree/master/0455-assign-cookies) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sid541/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Sid541/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sid541/DSA-Question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sid541/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sid541/DSA-Question/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sid541/DSA-Question/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
